@@ -1,0 +1,26 @@
+﻿1CV8LOG(ver 2.0)
+fd41a1b6-1f45-4594-bbed-d152e79b1819
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"dell",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.DBConfigUpdateStart",3},
+{4,"_$InfoBase$_.PredefinedDataUpdate",4},
+{5,e2076a22-fd29-4915-8d52-137ea946e643,"",1},
+{5,334aaca6-f366-49a4-bc4a-b5b50d22dc4e,"",2},
+{4,"_$InfoBase$_.DBConfigUpdate",5},
+{4,"_$InfoBase$_.ConfigUpdate",6},
+{3,"1CV8C",2},
+{4,"_$Transaction$_.Begin",7},
+{4,"_$Data$_.Update",8},
+{5,0ea7a0c5-0428-405d-bea5-762b251ad5e8,"РегистрСведений.УчетнаяПолитика",3},
+{4,"_$Transaction$_.Commit",9},
+{4,"_$Data$_.New",10},
+{5,334aaca6-f366-49a4-bc4a-b5b50d22dc4e,"Справочник.Склады",2},
+{5,e2076a22-fd29-4915-8d52-137ea946e643,"Справочник.Номенклатура",1},
+{4,"_$Transaction$_.Rollback",11},
+{4,"_$PerformError$_",12},
+{4,"_$Session$_.Finish",13}
